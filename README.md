@@ -1,2 +1,4 @@
 # Python
-python project 
+
+
+funny code
