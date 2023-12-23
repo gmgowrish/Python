@@ -1,4 +1,3 @@
-# Python
+Python Toturial practice code when  I learn on different platforms
 
-
-funny code
+Some leetcode problems 
